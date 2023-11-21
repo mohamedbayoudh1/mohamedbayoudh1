@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [BkLaravel_WEBSITE](https://github.com/mohamedbayoudh1/LARAVEL_WEBSITE)
+- 🔭 I’m currently working on [e-sports App web "symfony"](https://github.com/mohamedbayoudh1/LARAVEL_WEBSITE)
 
 - 🌱 I’m currently learning **Web3**
 
 - 👯 I’m looking to collaborate on **Any Web App Or Software App**
 
-- 🤝 I’m looking for help with [BkLaravel_WEBSITE](https://github.com/mohamedbayoudh1/LARAVEL_WEBSITE)
-
-- 💬 Ask me about **React ,Django**
+- 🤝 I’m looking for +6 month internship
+  
+- 💬 Ask me about **React ,Django ,Symfony ,Laravel ,spring... **
 
 - 📫 How to reach me **mohamed.bayoudhg@gmail.com**
 
