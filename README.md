@@ -8,8 +8,10 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-Latest App
-🔗 Check out my latest project: E-SportsAPP
+### Latest App
+
+🔗 **Check out my latest project:** [E-SportsAPP](https://github.com/mohamedbayoudh1/e-SportsAPP/tree/E-SPORTS-portfolio)
+
 
 Learning Journey
 🌱 Currently learning Web3
