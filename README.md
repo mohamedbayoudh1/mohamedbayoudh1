@@ -8,8 +8,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 ## Latest worck :  [e-sports App web ](https://github.com/mohamedbayoudh1/e-SportsAPP/tree/E-SPORTS-portfolio.git)
 
-- 🔭 I’m currently working on [e-sports App web "symfony"](https://github.com/mohamedbayoudh1/e-SportsAPP.git)
-
+[![Build Status](https://github.com/mohamedbayoudh1/e-SportsAPP/workflows/Build/badge.svg)](https://github.com/mohamedbayoudh1/e-SportsAPP/actions)
 - 🌱 I’m currently learning **Web3**
 
 - 👯 I’m looking to collaborate on **Any Web App Or Software App**
