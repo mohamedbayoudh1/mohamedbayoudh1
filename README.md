@@ -13,18 +13,22 @@
 🔗 **Check out my latest project:** [E-SportsAPP](https://github.com/mohamedbayoudh1/e-SportsAPP/tree/E-SPORTS-portfolio)
 
 
-Learning Journey
-🌱 Currently learning Web3
+### Learning Journey
 
-Collaboration and Internship
-👯 Looking to collaborate on any Web App or Software App
-🤝 Seeking a +6 month internship opportunity
+🌱 **Currently learning:** Web3
 
-Ask Me About
-💬 React, Django, Symfony, Laravel, Spring, and more
+### Collaboration and Internship
 
-Contact Information
-📫 How to reach me: mohamed.bayoudhg@gmail.com
+👯 **Looking to collaborate on:** Any Web App or Software App  
+🤝 **Seeking a +6 month internship opportunity**
+
+### Ask Me About
+
+💬 **Ask me about:** React, Django, Symfony, Laravel, Spring, and more
+
+### Contact Information
+
+📫 **How to reach me:** mohamed.bayoudhg@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
