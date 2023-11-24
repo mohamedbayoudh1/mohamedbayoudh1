@@ -8,16 +8,21 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
--Latest APP : make a loock : https://github.com/mohamedbayoudh1/e-SportsAPP/tree/E-SPORTS-portfolio
-- 🌱 I’m currently learning **Web3**
+Latest App
+🔗 Check out my latest project: E-SportsAPP
 
-- 👯 I’m looking to collaborate on **Any Web App Or Software App**
+Learning Journey
+🌱 Currently learning Web3
 
-- 🤝 I’m looking for +6 month internship
-  
-- 💬 Ask me about **React ,Django ,Symfony ,Laravel ,spring... **
+Collaboration and Internship
+👯 Looking to collaborate on any Web App or Software App
+🤝 Seeking a +6 month internship opportunity
 
-- 📫 How to reach me **mohamed.bayoudhg@gmail.com**
+Ask Me About
+💬 React, Django, Symfony, Laravel, Spring, and more
+
+Contact Information
+📫 How to reach me: mohamed.bayoudhg@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
