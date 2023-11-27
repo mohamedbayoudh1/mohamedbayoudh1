@@ -19,7 +19,7 @@
 
 ### Collaboration and Internship
 
-👯 **Looking to collaborate on:** Any Web App or Software App  
+👯 **Looking to collaborate on:** A Web App or Software App  
 🤝 **Seeking a +6 month internship opportunity**
 
 ### Ask Me About
