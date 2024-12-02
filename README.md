@@ -29,7 +29,7 @@
 
 ### Learning Journey
 
-🌱 **Currently learning:** Web3
+🌱 **Currently learning:** 
 
 ### Collaboration and Internship
 
