@@ -30,32 +30,26 @@ I have experience delivering successful projects for companies and clients using
 ## 🧩 **Professional Profiles**
 
 <p align="left">
-
-  <!-- Portfolio -->
-  <a href="https://baymedit.lovable.app/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" height="40" title="Portfolio" />
-  </a>
-
-  <!-- Upwork -->
-  <a href="https://upwork.com/freelancers/mohamedbayoudh" target="_blank">
-    <img src="https://skillicons.dev/icons?i=upwork" height="40" title="Upwork" />
-  </a>
-
-  <!-- Stack Overflow -->
-  <a href="https://stackoverflow.com/users/29605632/mohamed-bayoudh" target="_blank">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" title="Stack Overflow" />
-  </a>
-
-  <!-- Credly -->
-  <a href="https://www.credly.com/users/mohamed-bayoudh/badges#credly" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/credly.svg" height="40" title="Credly" />
-  </a>
-
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/mohamedbayoudh" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" title="LinkedIn" />
   </a>
-
+  <!-- Portfolio -->
+  <a href="https://baymedit.lovable.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" height="40" title="Portfolio" />
+  </a>
+  <!-- Credly -->
+  <a href="https://www.credly.com/users/mohamed-bayoudh/badges#credly" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/credly.svg" height="40" title="Credly" />
+  </a>
+  <!-- Stack Overflow -->
+  <a href="https://stackoverflow.com/users/29605632/mohamed-bayoudh" target="_blank">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" title="Stack Overflow" />
+  </a>
+  <!-- Upwork -->
+  <a href="https://upwork.com/freelancers/mohamedbayoudh" target="_blank">
+    <img src="https://skillicons.dev/icons?i=upwork" height="40" title="Upwork" />
+  </a>
 </p>
 
 ---
