@@ -51,8 +51,12 @@ I have experience delivering successful projects for companies and clients using
 
 ## 🏆 **GitHub Achievements**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedbayoudh1&theme=onestar&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-achievements.vercel.app/api/badge?user=mohamedbayoudh1&achievement=arctic-code-vault-contributor" height="110" />
+  <img src="https://github-profile-achievements.vercel.app/api/badge?user=mohamedbayoudh1&achievement=developer" height="110" />
+  <img src="https://github-profile-achievements.vercel.app/api/badge?user=mohamedbayoudh1&achievement=starstruck" height="110" />
+  <img src="https://github-profile-achievements.vercel.app/api/badge?user=mohamedbayoudh1&achievement=pull-shark" height="110" />
 </p>
+
 
 ---
 
