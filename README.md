@@ -51,7 +51,7 @@ I have experience delivering successful projects for companies and clients using
 
 ## 🏆 **GitHub Achievements**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedbayoudh1&theme=radical&no-frame=true&row=1&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mohamedbayoudh1&theme=onestar&no-frame=true&margin-w=10" />
 </p>
 
 ---
