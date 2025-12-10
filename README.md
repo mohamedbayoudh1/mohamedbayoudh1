@@ -17,7 +17,7 @@
 💡 I’m a **versatile Full Stack Developer** passionate about building high-performance, scalable, and user-focused applications.  
 I have experience delivering successful projects for companies and clients using **modern technologies** and solid engineering principles.
 
-💻 I work with: **React, Spring Boot, Laravel, Django, Node.js, Docker, SQL/NoSQL**  
+💻 I work with: **React, Spring Boot, Laravel, Django, Node.js, Docker, SQL/NoSQL/PostgreSQL**  
 🚀 Staying updated with industry trends and adopting new tools is my daily habit.
 
 ---
