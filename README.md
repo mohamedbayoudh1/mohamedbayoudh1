@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">👋 Hi, I'm <span style="color:#4fa3ff">Mohamed Bayoudh</span></h1>
-<h3 align="center">🚀 Full Stack Developer | Crafting Scalable & Modern Web Applications</h3>
+<h3 align="center">🚀 Full Stack Web Developer | Crafting Scalable & Modern Web Applications</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Spring+Boot+%7C+Laravel+%7C+Django;Building+Fast%2C+Modern+%26+User-Centered+Apps;Always+Learning+%26+Improving" alt="Typing SVG" />
