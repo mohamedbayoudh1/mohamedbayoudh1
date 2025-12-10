@@ -14,11 +14,38 @@
 
 ## 🌟 **About Me**
 
-💡 I’m a **versatile Full Stack Developer** passionate about creating high-performance, scalable, and user-focused applications.  
-With strong experience delivering successful projects for companies and clients, I combine **clean architecture, modern frameworks, and best practices**.
+💡 I’m a **versatile Full Stack Developer** passionate about building high-performance, scalable, and user-focused applications.  
+I have experience delivering successful projects for companies and clients using **modern technologies** and solid engineering principles.
 
-🔧 I'm fluent in: **React, Spring Boot, Laravel, Django, Node.js**, Docker, SQL/NoSQL, and more.  
-🚀 Always exploring new tools to push ideas into production.
+💻 I work with: **React, Spring Boot, Laravel, Django, Node.js, Docker, SQL/NoSQL**  
+🚀 Staying updated with industry trends and adopting new tools is my daily habit.
+
+---
+
+## 🌐 **My Portfolio**
+🔗 **Live Portfolio:** https://baymedit.lovable.app/
+
+---
+
+## 🧩 **Professional Profiles**
+
+<p align="left">
+  <a href="https://upwork.com/freelancers/mohamedbayoudh" target="_blank">
+    <img src="https://skillicons.dev/icons?i=upwork" height="40" />
+  </a>
+
+  <a href="https://stackoverflow.com/users/29605632/mohamed-bayoudh" target="_blank">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" />
+  </a>
+
+  <a href="https://www.credly.com/users/mohamed-bayoudh/badges#credly" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/credly.svg" height="40" />
+  </a>
+
+  <a href="https://linkedin.com/in/mohamedbayoudh" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+</p>
 
 ---
 
@@ -30,13 +57,18 @@ With strong experience delivering successful projects for companies and clients,
 ---
 
 ## 🔥 **Latest Project**
-**🎮 E-Sports APP**  
-👉 *Modern UI + Dynamic Portfolio System + Real Data Integrations*  
-🔗 **Repo:** https://github.com/mohamedbayoudh1/e-SportsAPP/tree/E-SPORTS-portfolio
+### 🎮 **E-Sports APP**
+✔ Dynamic UI  
+✔ Portfolio mode  
+✔ Responsive & Modern  
+
+🔗 **Repo:**  
+https://github.com/mohamedbayoudh1/e-SportsAPP/tree/E-SPORTS-portfolio
 
 ---
 
 ## 🚀 **Tech Stack**
+
 ### **Frontend**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,typescript,js,html,css,bootstrap,tailwind,vue,angular" />
@@ -57,7 +89,7 @@ With strong experience delivering successful projects for companies and clients,
   <img src="https://skillicons.dev/icons?i=docker,git,github,postman,firebase,linux" />
 </p>
 
-### **UI/Design Tools**
+### **UI / Design**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma,ai,ps" />
 </p>
@@ -67,24 +99,32 @@ With strong experience delivering successful projects for companies and clients,
 ## 🤝 **Collaboration**
 I’m open to collaborating on:
 
-- Full-stack web applications  
-- API integrations  
-- Cloud/Dockerized projects  
-- Professional freelance projects  
+- Full-Stack development  
+- Web applications  
+- Modern APIs  
+- Docker + Cloud projects  
+- Startup MVPs  
 
 ---
 
 ## 💬 **Ask Me About**
-**React • Spring Boot • Laravel • Django • Symfony • APIs • DevOps Basics**
+➡ React  
+➡ Symfony / Laravel  
+➡ Django  
+➡ Spring Boot  
+➡ REST APIs  
+➡ Software Architecture  
 
 ---
 
-## 📫 **Contact**
+## 📫 **Contact Me**
+📧 **Email:** *mohamed.bayoudhg@gmail.com*
+
 <p>
   <a href="mailto:mohamed.bayoudhg@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
-  <a href="https://linkedin.com/in/mohamedbayoudh">
+  <a href="https://linkedin.com/in/mohamedbayoudh" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
 </p>
@@ -104,13 +144,11 @@ I’m open to collaborating on:
 ---
 
 ## 🧠 **Currently Learning**
-🚀 Advanced React + TypeScript  
-🐳 Docker CI/CD  
-☁️ Cloud deployment (AWS / GCP)
+- Advanced React + TypeScript  
+- CI/CD with Docker  
+- Cloud: AWS & Google Cloud  
 
 ---
 
-## ⚡ Fun Fact
-I turn complex problems into elegant, scalable solutions 😎
-
----
+## ⚡ **Fun Fact**
+I turn complex problems into elegant solutions 😎  
