@@ -133,12 +133,26 @@ I’m open to collaborating on:
 
 ## 📊 **GitHub Stats**
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mohamedbayoudh1&show_icons=true&theme=radical" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedbayoudh1&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedbayoudh1&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedbayoudh1&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedbayoudh1&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohamedbayoudh1&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamedbayoudh1&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohamedbayoudh1&theme=tokyonight" height="140" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohamedbayoudh1&theme=tokyonight" height="140" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohamedbayoudh1&theme=tokyonight" height="140" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohamedbayoudh1&theme=tokyonight&utcOffset=1" height="140" />
 </p>
 
 ---
